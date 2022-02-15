@@ -1,0 +1,74 @@
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Sensor monitoring.exe
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Sensor monitoring.deps.json
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Sensor monitoring.runtimeconfig.json
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Sensor monitoring.runtimeconfig.dev.json
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Sensor monitoring.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\ref\Sensor monitoring.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Sensor monitoring.pdb
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Sensor monitoring.Views.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Sensor monitoring.Views.pdb
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.AssemblyInfo.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\scopedcss\bundle\Sensor monitoring.styles.css
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\staticwebassets\Sensor monitoring.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.TagHelpers.input.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.TagHelpers.output.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.RazorCoreGenerate.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Razor\Views\Building\List.cshtml.g.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.Views.pdb
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.csproj.CopyComplete
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\ref\Sensor monitoring.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.pdb
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Sensor monitoring.genruntimeconfig.cache
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Razor\Views\Building\SensorList.cshtml.g.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\obj\Debug\net5.0\Razor\Views\Building\Readings.cshtml.g.cs
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\2022\Sensor monitoring\Sensor monitoring\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

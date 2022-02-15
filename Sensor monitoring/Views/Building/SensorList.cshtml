@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<Sensor_monitoring.Models.Sensor>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col"></th>
+            <th scope="col">Sensor Name</th>
+            <th scope="col">Sensor Description</th>
+            <th scope="col">Readings</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sensor in Model)
+        {
+
+            <tr>
+                <th>
+                    @if (sensor.SensorType == "Temperature")
+                    {
+                        <img class="cart_item_img" src="https://icon-library.com/images/temperature-sensor-icon/temperature-sensor-icon-0.jpg" />
+                    }
+                    else
+                    {
+                        <img class="cart_item_img" src="https://cdn-icons-png.flaticon.com/512/2856/2856877.png" />
+                    }
+                </th>
+                <td class="table-td">@sensor.SensorName</td>
+                <td>@sensor.SensorDescription</td>
+                <td class="link">
+                    <a asp-controller="Building" asp-action="Readings" asp-route-id="@sensor.SensorID"> Readings </a>
+                </td>
+            </tr>
+        }
+        </tbody>
+</table>
+

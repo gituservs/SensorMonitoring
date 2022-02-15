@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<Sensor_monitoring.Models.Building>
+
+    
+    <div class="container-fluid">
+        <div class="row">
+
+            @foreach (var building in Model)
+            {
+                <div class="card-container">
+
+                    <img src="https://pngimg.com/uploads/building/building_PNG87.png" class="card-img" />
+                    <h3>@building.BuildingName</h3>
+                    <p>
+                        @building.BuildingAddress
+                    </p>
+                    <a class="cart-button" asp-controller="Building" asp-action="SensorList" asp-route-id="@building.BuildingID">Show sensors</a>
+                    
+                </div>
+            }
+
+            </div>
+        </div>
+            
